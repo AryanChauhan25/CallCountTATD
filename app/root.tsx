@@ -1,11 +1,13 @@
+/// <reference types="vite/client" />
+
 import {
-  isRouteErrorResponse,
   Links,
   Meta,
   Outlet,
   Scripts,
   ScrollRestoration,
-} from "react-router";
+  isRouteErrorResponse
+} from "react-router-dom";
 
 import type { Route } from "./+types/root";
 import "./app.css";
