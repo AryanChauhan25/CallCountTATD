@@ -9,8 +9,6 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "gh": "^2.8.9",
-    "git": "^0.1.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
